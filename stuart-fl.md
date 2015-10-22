@@ -1,6 +1,9 @@
 # Stuart Florida
 
-http://static1.squarespace.com/static/55c8a26ce4b030368e54a3bc/t/55d4be3ae4b04c2c344241d8/1440005703349/Sailfish-Point-Stuart-Florida-Real-Estate-1024x405.jpg?format=1500w
+
+
+![Stuart Flordia Photo](http://static1.squarespace.com/static/55c8a26ce4b030368e54a3bc/t/55d4be3ae4b04c2c344241d8/1440005703349/Sailfish-Point-Stuart-Florida-Real-Estate-1024x405.jpg?format=1500w)
+Format: ![Alt Text](Stuart Flordia Photo)
 
 ## Some Facts About Stuart
 
