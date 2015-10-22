@@ -13,3 +13,4 @@ Format: ![Alt Text](Maharastra India Photo)
 - Maharashtra was ruled by the Maurya Empire in the 4th and 3rd century BC. Around 230 BCE Maharashtra came under the rule of the Satavahana dynasty for 400 years.[17] The greatest ruler of the Satavahana Dynasty was Gautamiputra Satakarni.[18] In 90 AD Vedishri,[19] son of the Satavahana king Satakarni, the "Lord of Dakshinapatha, wielder of the unchecked wheel of Sovereignty",[18] made Junnar, thirty miles north of Pune, the capital of his kingdom.
 
 Ajanta and Ellora caves are best places to visit.
+Mahabaleshwar is a nice hill station
