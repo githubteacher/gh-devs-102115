@@ -1,4 +1,4 @@
-# Karkhana Hyderabad
+# Karkhana Secunderabad
 
 - Hussain Sagar
 - Too much traffic
