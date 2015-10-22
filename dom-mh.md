@@ -1,6 +1,10 @@
-# Maharastra
+# Maharastra India
 
-http://i1.trekearth.com/photos/132126/h_sgd_landscape01.jpg
+
+![Maharastra India Photo](http://i1.trekearth.com/photos/132126/h_sgd_landscape01.jpg)
+Format: ![Alt Text](Maharastra India Photo)
+
+## Facts about Maharastra
 
 - Sugarcane is fun to eat.
 - I like to eat wheat rotis.
