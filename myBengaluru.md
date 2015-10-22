@@ -4,4 +4,4 @@
 - Start up capital on India
 - IT Hub 
 - Microbrewery capital of South East Asia
-- Garden city
+- Garden city of India
