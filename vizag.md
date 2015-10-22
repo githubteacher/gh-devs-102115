@@ -1,3 +1,4 @@
 # Vizag
 - beautiful beach
-- nice weather
+- nice
+- places to eat: tycoon and street food on the beach
