@@ -4,5 +4,12 @@
 - Astro
 - Nasa
 - Rodeo
-- Bar b q
 
+#Shopping
+- Katy Mills - Shopping Malls
+- Memorial - Shopping Malls
+
+#Kids
+  - Natural Science
+  - Children
+  - Zoo
