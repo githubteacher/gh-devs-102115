@@ -1,0 +1,6 @@
+This is a file created in the local Git.
+
+More information about places to hangout in my home town...
+
+Place 1
+Place 2
