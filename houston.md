@@ -1,4 +1,5 @@
 # Houston Texas
 
-- Houston has medical center
-- Houston is a multiple culture city
+- Houston has a big medical center
+- Houston is a multi-culture city
+- Houston's summer is hot!
