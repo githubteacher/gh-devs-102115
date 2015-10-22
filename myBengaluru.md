@@ -6,4 +6,3 @@
 - Microbrewery capital of South East Asia
 - Garden city
 - Rajnikanth was a conductor in BMTC route 12B
-- This is after change.
