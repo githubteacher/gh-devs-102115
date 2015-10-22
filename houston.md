@@ -2,4 +2,4 @@
 
 - Houston has a big medical center
 - Houston is a multi-culture city
-- Houston's summer is hot!
+- Houston's summer is hot! Fall is really nice!
