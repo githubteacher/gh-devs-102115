@@ -5,3 +5,5 @@
 - It's a nice place to be
 - It's the home town of Goutam Buddha as well
 - It's an awesome place
+- It's a place i long for.
+- It's a real awesome place.
